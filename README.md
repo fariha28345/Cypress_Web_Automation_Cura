@@ -22,8 +22,8 @@
 
 ## How to run this project
 - Clone this project
-- To run and report generation hit these command
-```npm i```
+- To run and report generation hit these command  
+```npm i```  
 ```npx cypress open``` or ```npx cypress run```
 
 ## Report
