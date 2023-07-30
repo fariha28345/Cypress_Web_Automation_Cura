@@ -30,5 +30,7 @@
 ![cypress](https://github.com/fariha28345/Cypress_Web_Automation_Cura/assets/50767962/49e23fbe-4741-4298-a7b4-684844342d5e)
 
 ## Automation Output Video
-https://github.com/fariha28345/Cypress_Web_Automation_Cura/assets/50767962/f0b814c1-54eb-4194-b021-a4f2d60cbde5
-https://github.com/fariha28345/Cypress_Web_Automation_Cura/assets/50767962/929e2a5d-90c8-4e62-88f7-4216d23a4214
+https://github.com/fariha28345/Cypress_Web_Automation_Cura/assets/50767962/8c7e7def-87d6-4b09-8993-8ed9c2e15d24
+
+https://github.com/fariha28345/Cypress_Web_Automation_Cura/assets/50767962/bdbdd43c-fd9e-418f-965e-6f6042b2ed1c
+
